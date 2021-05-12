@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+    <title>Quiet Hacker News</title>
+    <style>
+      body {
+        padding: 20px;
+      }
+      body{
+         padding: 30px;
+         background-color: #FAFAD2;
+      }
+      body, a {
+        color: #333;
+        font-family: sans-serif;
+      }
+      li {
+        padding: 4px 0;
+      }
+      .host {
+        color: #888;
+      }
+      .time {
+        color: #888;
+        padding: 10px 0;
+      }
+      .footer, .footer a {
+        color: #888;
+      }
+    </style>
+  </head>
+  <body>
+    <h1> Quiet Hacker News</h1><br>
+    <h4 style="color:blue;"> Api for getting Instantaneous news continuosly. Main objective is not just to get the news but Concurrency Control and faster <br>
+        implementation so that less time is gone,and Cache implementation for fastening the process</h4>
+        <br>   
+    <ol >
+      {{range .Stories}}
+        <li class="list-group-item list-group-item-action" ><a href="{{.URL}}">{{.Title}}</a> <span class="host">({{.Host}})</span></li>
+      {{end}}
+    </ol>
+    <p class="time">This page was rendered in {{.Time}}</p>
+
+  </body>
+</html>
