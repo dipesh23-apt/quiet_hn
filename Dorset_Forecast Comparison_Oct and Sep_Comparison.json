@@ -1,0 +1,5198 @@
+{
+  "Sheet2": [
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL210(20)",
+      "Forecast - Sep-21": 461,
+      "Actual Sales - Sep-21": 180,
+      "Variance": 300,
+      "Type": "Short",
+      "SEP APE%": 156.11111111111111,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 420,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 250,
+      "OCT Category": "C",
+      "2M-MAPE %": 203.05555555555554,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL400SS",
+      "Forecast - Sep-21": 556,
+      "Actual Sales - Sep-21": 140,
+      "Variance": 24,
+      "Type": "Excess",
+      "SEP APE%": 297.14285714285717,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 116,
+      "Actual Sales - Oct 21": 140,
+      "OCT Abs Per Error": 17.142857142857142,
+      "OCT Category": "A",
+      "2M-MAPE %": 157.14285714285717,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "Forecast - Sep-21": 163,
+      "Actual Sales - Sep-21": 120,
+      "Variance": 150,
+      "Type": "Short",
+      "SEP APE%": 35.833333333333336,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 150,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 267.9166666666667,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL500NS",
+      "Forecast - Sep-21": 174,
+      "Actual Sales - Sep-21": 40,
+      "Variance": 286,
+      "Type": "Excess",
+      "SEP APE%": 335,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 54,
+      "Actual Sales - Oct 21": 340,
+      "OCT Abs Per Error": 84.11764705882354,
+      "OCT Category": "B",
+      "2M-MAPE %": 209.55882352941177,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "Forecast - Sep-21": 55,
+      "Actual Sales - Sep-21": 28,
+      "Variance": 56,
+      "Type": "Short",
+      "SEP APE%": 96.42857142857143,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 72,
+      "Actual Sales - Oct 21": 16,
+      "OCT Abs Per Error": 350,
+      "OCT Category": "C",
+      "2M-MAPE %": 223.21428571428572,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL100SS",
+      "Forecast - Sep-21": 211,
+      "Actual Sales - Sep-21": 140,
+      "Variance": 97,
+      "Type": "Short",
+      "SEP APE%": 50.714285714285715,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 217,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 80.83333333333333,
+      "OCT Category": "B",
+      "2M-MAPE %": 65.77380952380952,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL200SS",
+      "Forecast - Sep-21": 40,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 53,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 53,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 500,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL206SS",
+      "Forecast - Sep-21": 116,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 10,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 70,
+      "Actual Sales - Oct 21": 60,
+      "OCT Abs Per Error": 16.666666666666668,
+      "OCT Category": "A",
+      "2M-MAPE %": 258.3333333333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "Forecast - Sep-21": 7,
+      "Actual Sales - Sep-21": 32,
+      "Variance": 11,
+      "Type": "Short",
+      "SEP APE%": 78.125,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 67,
+      "Actual Sales - Oct 21": 56,
+      "OCT Abs Per Error": 19.642857142857142,
+      "OCT Category": "A",
+      "2M-MAPE %": 48.88392857142857,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DC80 Ext.",
+      "Forecast - Sep-21": 28,
+      "Actual Sales - Sep-21": 24,
+      "Variance": 7,
+      "Type": "Excess",
+      "SEP APE%": 16.666666666666668,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 17,
+      "Actual Sales - Oct 21": 24,
+      "OCT Abs Per Error": 29.166666666666668,
+      "OCT Category": "A",
+      "2M-MAPE %": 22.916666666666668,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "Forecast - Sep-21": 145,
+      "Actual Sales - Sep-21": 54,
+      "Variance": 3,
+      "Type": "Excess",
+      "SEP APE%": 168.5185185185185,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 69,
+      "Actual Sales - Oct 21": 72,
+      "OCT Abs Per Error": 4.166666666666667,
+      "OCT Category": "A",
+      "2M-MAPE %": 86.34259259259258,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ETTOSM(SS)",
+      "Forecast - Sep-21": 446,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 200,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 200,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 500,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "Forecast - Sep-21": 29,
+      "Actual Sales - Sep-21": 24,
+      "Variance": 35,
+      "Type": "Short",
+      "SEP APE%": 20.833333333333332,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 59,
+      "Actual Sales - Oct 21": 24,
+      "OCT Abs Per Error": 145.83333333333334,
+      "OCT Category": "C",
+      "2M-MAPE %": 83.33333333333334,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "HG1253SS",
+      "Forecast - Sep-21": 2962,
+      "Actual Sales - Sep-21": 5840,
+      "Variance": 657,
+      "Type": "Short",
+      "SEP APE%": 49.28082191780822,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 2817,
+      "Actual Sales - Oct 21": 2160,
+      "OCT Abs Per Error": 30.416666666666668,
+      "OCT Category": "A",
+      "2M-MAPE %": 39.84874429223744,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "Forecast - Sep-21": 340,
+      "Actual Sales - Sep-21": 48,
+      "Variance": 515,
+      "Type": "Excess",
+      "SEP APE%": 608.3333333333334,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 189,
+      "Actual Sales - Oct 21": 704,
+      "OCT Abs Per Error": 73.1534090909091,
+      "OCT Category": "B",
+      "2M-MAPE %": 340.74337121212125,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "KAIRA-OR",
+      "Forecast - Sep-21": 58,
+      "Actual Sales - Sep-21": 32,
+      "Variance": 128,
+      "Type": "Short",
+      "SEP APE%": 81.25,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 200,
+      "Actual Sales - Oct 21": 72,
+      "OCT Abs Per Error": 177.77777777777777,
+      "OCT Category": "C",
+      "2M-MAPE %": 129.51388888888889,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML103SS",
+      "Forecast - Sep-21": 292,
+      "Actual Sales - Sep-21": 160,
+      "Variance": 53,
+      "Type": "Short",
+      "SEP APE%": 82.5,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 93,
+      "Actual Sales - Oct 21": 40,
+      "OCT Abs Per Error": 132.5,
+      "OCT Category": "C",
+      "2M-MAPE %": 107.5,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML110SS",
+      "Forecast - Sep-21": 1112,
+      "Actual Sales - Sep-21": 20,
+      "Variance": 166,
+      "Type": "Short",
+      "SEP APE%": 5460,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 286,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 138.33333333333334,
+      "OCT Category": "C",
+      "2M-MAPE %": 2799.1666666666665,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML112SS",
+      "Forecast - Sep-21": 402,
+      "Actual Sales - Sep-21": 160,
+      "Variance": 300,
+      "Type": "Short",
+      "SEP APE%": 151.25,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 300,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 325.625,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "MP330NI",
+      "Forecast - Sep-21": 116,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 181,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 421,
+      "Actual Sales - Oct 21": 240,
+      "OCT Abs Per Error": 75.41666666666667,
+      "OCT Category": "B",
+      "2M-MAPE %": 287.7083333333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PHA103NS",
+      "Forecast - Sep-21": 24,
+      "Actual Sales - Sep-21": 56,
+      "Variance": 6,
+      "Type": "Excess",
+      "SEP APE%": 57.142857142857146,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 42,
+      "Actual Sales - Oct 21": 48,
+      "OCT Abs Per Error": 12.5,
+      "OCT Category": "A",
+      "2M-MAPE %": 34.82142857142857,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PHA303NS",
+      "Forecast - Sep-21": 60,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 181,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 27,
+      "Actual Sales - Oct 21": 208,
+      "OCT Abs Per Error": 87.01923076923077,
+      "OCT Category": "B",
+      "2M-MAPE %": 293.50961538461536,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PRTOSM(SS)",
+      "Forecast - Sep-21": 245,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 270,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 300,
+      "Actual Sales - Oct 21": 30,
+      "OCT Abs Per Error": 900,
+      "OCT Category": "D",
+      "2M-MAPE %": 700,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "SD10PSS22",
+      "Forecast - Sep-21": 29,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 40,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 20,
+      "Actual Sales - Oct 21": 60,
+      "OCT Abs Per Error": 66.66666666666667,
+      "OCT Category": "B",
+      "2M-MAPE %": 283.3333333333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "Forecast - Sep-21": 11,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 20,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 60,
+      "Actual Sales - Oct 21": 80,
+      "OCT Abs Per Error": 25,
+      "OCT Category": "A",
+      "2M-MAPE %": 262.5,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "Forecast - Sep-21": 26,
+      "Actual Sales - Sep-21": 129,
+      "Variance": 144,
+      "Type": "Excess",
+      "SEP APE%": 79.84496124031008,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 30,
+      "Actual Sales - Oct 21": 174,
+      "OCT Abs Per Error": 82.75862068965517,
+      "OCT Category": "B",
+      "2M-MAPE %": 81.30179096498263,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL400SS",
+      "Forecast - Sep-21": 2736,
+      "Actual Sales - Sep-21": 160,
+      "Variance": 2420,
+      "Type": "Excess",
+      "SEP APE%": 1610,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 600,
+      "Actual Sales - Oct 21": 3020,
+      "OCT Abs Per Error": 80.13245033112582,
+      "OCT Category": "B",
+      "2M-MAPE %": 845.0662251655629,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL410(20)",
+      "Forecast - Sep-21": 2994,
+      "Actual Sales - Sep-21": 120,
+      "Variance": 2730,
+      "Type": "Excess",
+      "SEP APE%": 2395,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 930,
+      "Actual Sales - Oct 21": 3660,
+      "OCT Abs Per Error": 74.59016393442623,
+      "OCT Category": "B",
+      "2M-MAPE %": 1234.795081967213,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL411(25)",
+      "Forecast - Sep-21": 381,
+      "Actual Sales - Sep-21": 60,
+      "Variance": 333,
+      "Type": "Excess",
+      "SEP APE%": 535,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 267,
+      "Actual Sales - Oct 21": 600,
+      "OCT Abs Per Error": 55.5,
+      "OCT Category": "B",
+      "2M-MAPE %": 295.25,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL500NS",
+      "Forecast - Sep-21": 869,
+      "Actual Sales - Sep-21": 60,
+      "Variance": 18,
+      "Type": "Excess",
+      "SEP APE%": 1348.3333333333333,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 262,
+      "Actual Sales - Oct 21": 280,
+      "OCT Abs Per Error": 6.428571428571429,
+      "OCT Category": "A",
+      "2M-MAPE %": 677.3809523809523,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "CETO-08CY",
+      "Forecast - Sep-21": 11,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 31,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 9,
+      "Actual Sales - Oct 21": 40,
+      "OCT Abs Per Error": 77.5,
+      "OCT Category": "B",
+      "2M-MAPE %": 288.75,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "Forecast - Sep-21": 73,
+      "Actual Sales - Sep-21": 52,
+      "Variance": 33,
+      "Type": "Excess",
+      "SEP APE%": 40.38461538461539,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 87,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 27.5,
+      "OCT Category": "A",
+      "2M-MAPE %": 33.94230769230769,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "Forecast - Sep-21": 92,
+      "Actual Sales - Sep-21": 84,
+      "Variance": 649,
+      "Type": "Excess",
+      "SEP APE%": 9.523809523809524,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 175,
+      "Actual Sales - Oct 21": 824,
+      "OCT Abs Per Error": 78.7621359223301,
+      "OCT Category": "B",
+      "2M-MAPE %": 44.14297272306981,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "Forecast - Sep-21": 43,
+      "Actual Sales - Sep-21": 104,
+      "Variance": 51,
+      "Type": "Excess",
+      "SEP APE%": 58.65384615384615,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 65,
+      "Actual Sales - Oct 21": 116,
+      "OCT Abs Per Error": 43.96551724137931,
+      "OCT Category": "A",
+      "2M-MAPE %": 51.30968169761273,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "HG1153SS",
+      "Forecast - Sep-21": 116,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 326,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 114,
+      "Actual Sales - Oct 21": 440,
+      "OCT Abs Per Error": 74.0909090909091,
+      "OCT Category": "B",
+      "2M-MAPE %": 287.04545454545456,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "KAIRA-10\"",
+      "Forecast - Sep-21": 836,
+      "Actual Sales - Sep-21": 124,
+      "Variance": 324,
+      "Type": "Excess",
+      "SEP APE%": 574.1935483870968,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 92,
+      "Actual Sales - Oct 21": 416,
+      "OCT Abs Per Error": 77.88461538461539,
+      "OCT Category": "B",
+      "2M-MAPE %": 326.0390818858561,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "KAIRA-OR",
+      "Forecast - Sep-21": 241,
+      "Actual Sales - Sep-21": 20,
+      "Variance": 129,
+      "Type": "Excess",
+      "SEP APE%": 1105,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 59,
+      "Actual Sales - Oct 21": 188,
+      "OCT Abs Per Error": 68.61702127659575,
+      "OCT Category": "B",
+      "2M-MAPE %": 586.8085106382979,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML100HG",
+      "Forecast - Sep-21": 167,
+      "Actual Sales - Sep-21": 1966,
+      "Variance": 1223,
+      "Type": "Excess",
+      "SEP APE%": 91.50559511698881,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 1223,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 95.75279755849441,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110PT",
+      "Forecast - Sep-21": 233,
+      "Actual Sales - Sep-21": 60,
+      "Variance": 34,
+      "Type": "Short",
+      "SEP APE%": 288.3333333333333,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 134,
+      "Actual Sales - Oct 21": 100,
+      "OCT Abs Per Error": 34,
+      "OCT Category": "B",
+      "2M-MAPE %": 161.16666666666666,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110SS",
+      "Forecast - Sep-21": 364,
+      "Actual Sales - Sep-21": 160,
+      "Variance": 293,
+      "Type": "Short",
+      "SEP APE%": 127.5,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 953,
+      "Actual Sales - Oct 21": 660,
+      "OCT Abs Per Error": 44.39393939393939,
+      "OCT Category": "A",
+      "2M-MAPE %": 85.94696969696969,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110TM",
+      "Forecast - Sep-21": 35,
+      "Actual Sales - Sep-21": 622,
+      "Variance": 395,
+      "Type": "Excess",
+      "SEP APE%": 94.37299035369774,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 395,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 97.18649517684887,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML112SS",
+      "Forecast - Sep-21": 280,
+      "Actual Sales - Sep-21": 180,
+      "Variance": 94,
+      "Type": "Short",
+      "SEP APE%": 55.55555555555556,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 574,
+      "Actual Sales - Oct 21": 480,
+      "OCT Abs Per Error": 19.583333333333332,
+      "OCT Category": "A",
+      "2M-MAPE %": 37.56944444444444,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP330NI",
+      "Forecast - Sep-21": 340,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 859,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 101,
+      "Actual Sales - Oct 21": 960,
+      "OCT Abs Per Error": 89.47916666666667,
+      "OCT Category": "B",
+      "2M-MAPE %": 294.7395833333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP360SS",
+      "Forecast - Sep-21": 648,
+      "Actual Sales - Sep-21": 3120,
+      "Variance": 1921,
+      "Type": "Excess",
+      "SEP APE%": 79.23076923076923,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 599,
+      "Actual Sales - Oct 21": 2520,
+      "OCT Abs Per Error": 76.23015873015873,
+      "OCT Category": "B",
+      "2M-MAPE %": 77.73046398046398,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP370SS",
+      "Forecast - Sep-21": 398,
+      "Actual Sales - Sep-21": 1320,
+      "Variance": 293,
+      "Type": "Short",
+      "SEP APE%": 69.84848484848484,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 413,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 244.16666666666666,
+      "OCT Category": "C",
+      "2M-MAPE %": 157.00757575757575,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP390NI",
+      "Forecast - Sep-21": 2912,
+      "Actual Sales - Sep-21": 3840,
+      "Variance": 33,
+      "Type": "Excess",
+      "SEP APE%": 24.166666666666668,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 1767,
+      "Actual Sales - Oct 21": 1800,
+      "OCT Abs Per Error": 1.8333333333333333,
+      "OCT Category": "A",
+      "2M-MAPE %": 13,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ONIX-OR",
+      "Forecast - Sep-21": 59,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 39,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 21,
+      "Actual Sales - Oct 21": 60,
+      "OCT Abs Per Error": 65,
+      "OCT Category": "B",
+      "2M-MAPE %": 282.5,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "SD12PSS22",
+      "Forecast - Sep-21": 70,
+      "Actual Sales - Sep-21": 52,
+      "Variance": 5,
+      "Type": "Short",
+      "SEP APE%": 34.61538461538461,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 64,
+      "Actual Sales - Oct 21": 59,
+      "OCT Abs Per Error": 8.474576271186441,
+      "OCT Category": "A",
+      "2M-MAPE %": 21.544980443285528,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "SDORSS22",
+      "Forecast - Sep-21": 33,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 86,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 96,
+      "Actual Sales - Oct 21": 10,
+      "OCT Abs Per Error": 860,
+      "OCT Category": "D",
+      "2M-MAPE %": 680,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "Forecast - Sep-21": 60,
+      "Actual Sales - Sep-21": 546,
+      "Variance": 499,
+      "Type": "Excess",
+      "SEP APE%": 89.01098901098901,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 499,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 94.50549450549451,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "VITORSN",
+      "Forecast - Sep-21": 29,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 19,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 19,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 500,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ZOVI-OR",
+      "Forecast - Sep-21": 116,
+      "Actual Sales - Sep-21": 48,
+      "Variance": 27,
+      "Type": "Short",
+      "SEP APE%": 141.66666666666666,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 75,
+      "Actual Sales - Oct 21": 48,
+      "OCT Abs Per Error": 56.25,
+      "OCT Category": "B",
+      "2M-MAPE %": 98.95833333333333,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL210(20)",
+      "Forecast - Sep-21": 16,
+      "Actual Sales - Sep-21": 623,
+      "Variance": 144,
+      "Type": "Short",
+      "SEP APE%": 97.43178170144462,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 284,
+      "Actual Sales - Oct 21": 140,
+      "OCT Abs Per Error": 102.85714285714286,
+      "OCT Category": "C",
+      "2M-MAPE %": 100.14446227929375,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL400SS",
+      "Forecast - Sep-21": 648,
+      "Actual Sales - Sep-21": 500,
+      "Variance": 60,
+      "Type": "Short",
+      "SEP APE%": 29.6,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 60,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 264.8,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL401SS",
+      "Forecast - Sep-21": 90,
+      "Actual Sales - Sep-21": 44,
+      "Variance": 40,
+      "Type": "Excess",
+      "SEP APE%": 104.54545454545455,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 40,
+      "Actual Sales - Oct 21": 80,
+      "OCT Abs Per Error": 50,
+      "OCT Category": "B",
+      "2M-MAPE %": 77.27272727272728,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "Forecast - Sep-21": 100,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 80,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 40,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 66.66666666666667,
+      "OCT Category": "B",
+      "2M-MAPE %": 283.3333333333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL411(25)",
+      "Forecast - Sep-21": 174,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 0,
+      "Type": "Ok",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 120,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 0,
+      "OCT Category": "A",
+      "2M-MAPE %": 250,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL500NS",
+      "Forecast - Sep-21": 95,
+      "Actual Sales - Sep-21": 412,
+      "Variance": 42,
+      "Type": "Short",
+      "SEP APE%": 76.94174757281553,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 142,
+      "Actual Sales - Oct 21": 100,
+      "OCT Abs Per Error": 42,
+      "OCT Category": "A",
+      "2M-MAPE %": 59.470873786407765,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "Forecast - Sep-21": 45,
+      "Actual Sales - Sep-21": 31,
+      "Variance": 7,
+      "Type": "Excess",
+      "SEP APE%": 45.16129032258065,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 81,
+      "Actual Sales - Oct 21": 88,
+      "OCT Abs Per Error": 7.954545454545454,
+      "OCT Category": "A",
+      "2M-MAPE %": 26.55791788856305,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL200SS",
+      "Forecast - Sep-21": 90,
+      "Actual Sales - Sep-21": 60,
+      "Variance": 360,
+      "Type": "Short",
+      "SEP APE%": 50,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 360,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 275,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL201SS",
+      "Forecast - Sep-21": 94,
+      "Actual Sales - Sep-21": 3,
+      "Variance": 192,
+      "Type": "Short",
+      "SEP APE%": 3033.3333333333335,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 192,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 1766.6666666666667,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL207SS",
+      "Forecast - Sep-21": 17,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 24,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 24,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 500,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "DC60SM",
+      "Forecast - Sep-21": 392,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 246,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 276,
+      "Actual Sales - Oct 21": 30,
+      "OCT Abs Per Error": 820,
+      "OCT Category": "D",
+      "2M-MAPE %": 660,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "Forecast - Sep-21": 58,
+      "Actual Sales - Sep-21": 132,
+      "Variance": 48,
+      "Type": "Excess",
+      "SEP APE%": 56.06060606060606,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 18,
+      "Actual Sales - Oct 21": 66,
+      "OCT Abs Per Error": 72.72727272727273,
+      "OCT Category": "B",
+      "2M-MAPE %": 64.3939393939394,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ETTOSM(SS)",
+      "Forecast - Sep-21": 156,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 240,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 240,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 500,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "HG2151HSS",
+      "Forecast - Sep-21": 203,
+      "Actual Sales - Sep-21": 180,
+      "Variance": 190,
+      "Type": "Short",
+      "SEP APE%": 12.777777777777779,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 190,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 256.3888888888889,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML102SS",
+      "Forecast - Sep-21": 30,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 29,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 49,
+      "Actual Sales - Oct 21": 20,
+      "OCT Abs Per Error": 145,
+      "OCT Category": "C",
+      "2M-MAPE %": 322.5,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML110SS",
+      "Forecast - Sep-21": 568,
+      "Actual Sales - Sep-21": 80,
+      "Variance": 100,
+      "Type": "Short",
+      "SEP APE%": 610,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 120,
+      "Actual Sales - Oct 21": 20,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "C",
+      "2M-MAPE %": 555,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML112SS",
+      "Forecast - Sep-21": 206,
+      "Actual Sales - Sep-21": 20,
+      "Variance": 216,
+      "Type": "Short",
+      "SEP APE%": 930,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 216,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 715,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "MP390NI",
+      "Forecast - Sep-21": 1343,
+      "Actual Sales - Sep-21": 1200,
+      "Variance": 192,
+      "Type": "Short",
+      "SEP APE%": 11.916666666666666,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 272,
+      "Actual Sales - Oct 21": 80,
+      "OCT Abs Per Error": 240,
+      "OCT Category": "C",
+      "2M-MAPE %": 125.95833333333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "NKORSS",
+      "Forecast - Sep-21": 33,
+      "Actual Sales - Sep-21": 14,
+      "Variance": 0,
+      "Type": "Ok",
+      "SEP APE%": 135.71428571428572,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 30,
+      "Actual Sales - Oct 21": 30,
+      "OCT Abs Per Error": 0,
+      "OCT Category": "A",
+      "2M-MAPE %": 67.85714285714286,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "OBLO-08KY",
+      "Forecast - Sep-21": 22,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 28,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 20,
+      "Actual Sales - Oct 21": 48,
+      "OCT Abs Per Error": 58.333333333333336,
+      "OCT Category": "B",
+      "2M-MAPE %": 279.1666666666667,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "PHA303MPT",
+      "Forecast - Sep-21": 52,
+      "Actual Sales - Sep-21": 25,
+      "Variance": 6,
+      "Type": "Short",
+      "SEP APE%": 108,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 38,
+      "Actual Sales - Oct 21": 32,
+      "OCT Abs Per Error": 18.75,
+      "OCT Category": "A",
+      "2M-MAPE %": 63.375,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "PHA303NS",
+      "Forecast - Sep-21": 36,
+      "Actual Sales - Sep-21": 4,
+      "Variance": 17,
+      "Type": "Excess",
+      "SEP APE%": 800,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 15,
+      "Actual Sales - Oct 21": 32,
+      "OCT Abs Per Error": 53.125,
+      "OCT Category": "B",
+      "2M-MAPE %": 426.5625,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "Forecast - Sep-21": 18,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 36,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 24,
+      "Actual Sales - Oct 21": 60,
+      "OCT Abs Per Error": 60,
+      "OCT Category": "B",
+      "2M-MAPE %": 280,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SKEW-08KY",
+      "Forecast - Sep-21": 82,
+      "Actual Sales - Sep-21": 60,
+      "Variance": 30,
+      "Type": "Short",
+      "SEP APE%": 36.666666666666664,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 86,
+      "Actual Sales - Oct 21": 56,
+      "OCT Abs Per Error": 53.57142857142857,
+      "OCT Category": "B",
+      "2M-MAPE %": 45.11904761904762,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SLORSS22",
+      "Forecast - Sep-21": 20,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 27,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 13,
+      "Actual Sales - Oct 21": 40,
+      "OCT Abs Per Error": 67.5,
+      "OCT Category": "B",
+      "2M-MAPE %": 283.75,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "TS-610SS",
+      "Forecast - Sep-21": 37,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 60,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 60,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 50,
+      "OCT Category": "B",
+      "2M-MAPE %": 275,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL400SS",
+      "Forecast - Sep-21": 1980,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 30,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 1240,
+      "Actual Sales - Oct 21": 1270,
+      "OCT Abs Per Error": 2.3622047244094486,
+      "OCT Category": "A",
+      "2M-MAPE %": 251.1811023622047,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL408NI",
+      "Forecast - Sep-21": 784,
+      "Actual Sales - Sep-21": 240,
+      "Variance": 862,
+      "Type": "Excess",
+      "SEP APE%": 226.66666666666666,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 698,
+      "Actual Sales - Oct 21": 1560,
+      "OCT Abs Per Error": 55.256410256410255,
+      "OCT Category": "B",
+      "2M-MAPE %": 140.96153846153845,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "Forecast - Sep-21": 1247,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 1176,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 2636,
+      "Actual Sales - Oct 21": 1460,
+      "OCT Abs Per Error": 80.54794520547945,
+      "OCT Category": "B",
+      "2M-MAPE %": 290.2739726027397,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ATLORSN",
+      "Forecast - Sep-21": 15,
+      "Actual Sales - Sep-21": 170,
+      "Variance": 165,
+      "Type": "Excess",
+      "SEP APE%": 91.17647058823529,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 165,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 95.58823529411765,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "Forecast - Sep-21": 16,
+      "Actual Sales - Sep-21": 24,
+      "Variance": 25,
+      "Type": "Short",
+      "SEP APE%": 33.333333333333336,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 25,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 266.6666666666667,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "CETO-10\"",
+      "Forecast - Sep-21": 29,
+      "Actual Sales - Sep-21": 40,
+      "Variance": 41,
+      "Type": "Excess",
+      "SEP APE%": 27.5,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 114,
+      "Actual Sales - Oct 21": 155,
+      "OCT Abs Per Error": 26.451612903225808,
+      "OCT Category": "A",
+      "2M-MAPE %": 26.975806451612904,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "CL201SS",
+      "Forecast - Sep-21": 29,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 6,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 6,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 500,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "COSMO-08CY",
+      "Forecast - Sep-21": 88,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 20,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 12,
+      "Actual Sales - Oct 21": 32,
+      "OCT Abs Per Error": 62.5,
+      "OCT Category": "B",
+      "2M-MAPE %": 281.25,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "Forecast - Sep-21": 249,
+      "Actual Sales - Sep-21": 144,
+      "Variance": 2036,
+      "Type": "Excess",
+      "SEP APE%": 72.91666666666667,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 58,
+      "Actual Sales - Oct 21": 2094,
+      "OCT Abs Per Error": 97.23018147086916,
+      "OCT Category": "B",
+      "2M-MAPE %": 85.0734240687679,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "DC80PDC",
+      "Forecast - Sep-21": 48,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 3,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 81,
+      "Actual Sales - Oct 21": 84,
+      "OCT Abs Per Error": 3.5714285714285716,
+      "OCT Category": "A",
+      "2M-MAPE %": 251.78571428571428,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "Forecast - Sep-21": 85,
+      "Actual Sales - Sep-21": 28,
+      "Variance": 235,
+      "Type": "Excess",
+      "SEP APE%": 203.57142857142858,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 41,
+      "Actual Sales - Oct 21": 276,
+      "OCT Abs Per Error": 85.14492753623189,
+      "OCT Category": "B",
+      "2M-MAPE %": 144.35817805383024,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "Forecast - Sep-21": 568,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 3021,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 203,
+      "Actual Sales - Oct 21": 3224,
+      "OCT Abs Per Error": 93.70347394540943,
+      "OCT Category": "B",
+      "2M-MAPE %": 296.8517369727047,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "KAIRA-10\"",
+      "Forecast - Sep-21": 494,
+      "Actual Sales - Sep-21": 220,
+      "Variance": 1072,
+      "Type": "Excess",
+      "SEP APE%": 124.54545454545455,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 172,
+      "Actual Sales - Oct 21": 1244,
+      "OCT Abs Per Error": 86.17363344051446,
+      "OCT Category": "B",
+      "2M-MAPE %": 105.3595439929845,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML100HG",
+      "Forecast - Sep-21": 134,
+      "Actual Sales - Sep-21": 983,
+      "Variance": 462,
+      "Type": "Excess",
+      "SEP APE%": 86.36826042726348,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 462,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 93.18413021363173,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML110SS",
+      "Forecast - Sep-21": 1352,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 673,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 723,
+      "Actual Sales - Oct 21": 50,
+      "OCT Abs Per Error": 1346,
+      "OCT Category": "D",
+      "2M-MAPE %": 923,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML110TM",
+      "Forecast - Sep-21": 103,
+      "Actual Sales - Sep-21": 1044,
+      "Variance": 390,
+      "Type": "Excess",
+      "SEP APE%": 90.13409961685824,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 390,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 95.06704980842912,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML112SS",
+      "Forecast - Sep-21": 85,
+      "Actual Sales - Sep-21": 40,
+      "Variance": 15,
+      "Type": "Excess",
+      "SEP APE%": 112.5,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 125,
+      "Actual Sales - Oct 21": 140,
+      "OCT Abs Per Error": 10.714285714285714,
+      "OCT Category": "A",
+      "2M-MAPE %": 61.607142857142854,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "MP360SS",
+      "Forecast - Sep-21": 1452,
+      "Actual Sales - Sep-21": 1560,
+      "Variance": 3202,
+      "Type": "Excess",
+      "SEP APE%": 6.923076923076923,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 1598,
+      "Actual Sales - Oct 21": 4800,
+      "OCT Abs Per Error": 66.70833333333333,
+      "OCT Category": "B",
+      "2M-MAPE %": 36.815705128205124,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "MP390NI",
+      "Forecast - Sep-21": 2280,
+      "Actual Sales - Sep-21": 3360,
+      "Variance": 6979,
+      "Type": "Excess",
+      "SEP APE%": 32.142857142857146,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 701,
+      "Actual Sales - Oct 21": 7680,
+      "OCT Abs Per Error": 90.87239583333333,
+      "OCT Category": "B",
+      "2M-MAPE %": 61.50762648809524,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ONIX-10\"",
+      "Forecast - Sep-21": 62,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 38,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 82,
+      "Actual Sales - Oct 21": 120,
+      "OCT Abs Per Error": 31.666666666666668,
+      "OCT Category": "A",
+      "2M-MAPE %": 265.8333333333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "PRTOSS",
+      "Forecast - Sep-21": 407,
+      "Actual Sales - Sep-21": 240,
+      "Variance": 1008,
+      "Type": "Excess",
+      "SEP APE%": 69.58333333333333,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 312,
+      "Actual Sales - Oct 21": 1320,
+      "OCT Abs Per Error": 76.36363636363636,
+      "OCT Category": "B",
+      "2M-MAPE %": 72.97348484848484,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SD10PSS22",
+      "Forecast - Sep-21": 12,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 12,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 12,
+      "Actual Sales - Oct 21": 0,
+      "OCT Abs Per Error": 500,
+      "OCT Category": "D",
+      "2M-MAPE %": 500,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "Forecast - Sep-21": 69,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 8,
+      "Type": "Short",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 98,
+      "Actual Sales - Oct 21": 90,
+      "OCT Abs Per Error": 8.88888888888889,
+      "OCT Category": "A",
+      "2M-MAPE %": 254.44444444444446,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SKEW-08CY",
+      "Forecast - Sep-21": 24,
+      "Actual Sales - Sep-21": 12,
+      "Variance": 3,
+      "Type": "Short",
+      "SEP APE%": 100,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 31,
+      "Actual Sales - Oct 21": 28,
+      "OCT Abs Per Error": 10.714285714285714,
+      "OCT Category": "A",
+      "2M-MAPE %": 55.357142857142854,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SLORSS22",
+      "Forecast - Sep-21": 46,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 0,
+      "Type": "Ok",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 31,
+      "Actual Sales - Oct 21": 31,
+      "OCT Abs Per Error": 0,
+      "OCT Category": "A",
+      "2M-MAPE %": 250,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "Forecast - Sep-21": 21,
+      "Actual Sales - Sep-21": 297,
+      "Variance": 350,
+      "Type": "Excess",
+      "SEP APE%": 92.92929292929293,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 350,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 96.46464646464646,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "VITORSN",
+      "Forecast - Sep-21": 37,
+      "Actual Sales - Sep-21": 10,
+      "Variance": 42,
+      "Type": "Excess",
+      "SEP APE%": 270,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 22,
+      "Actual Sales - Oct 21": 64,
+      "OCT Abs Per Error": 65.625,
+      "OCT Category": "B",
+      "2M-MAPE %": 167.8125,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL400SS",
+      "Forecast - Sep-21": 263,
+      "Actual Sales - Sep-21": 240,
+      "Variance": 253,
+      "Type": "Short",
+      "SEP APE%": 9.583333333333334,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 273,
+      "Actual Sales - Oct 21": 20,
+      "OCT Abs Per Error": 1265,
+      "OCT Category": "D",
+      "2M-MAPE %": 637.2916666666666,
+      "Category": "D"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL401SS",
+      "Forecast - Sep-21": 232,
+      "Actual Sales - Sep-21": 40,
+      "Variance": 40,
+      "Type": "Short",
+      "SEP APE%": 480,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 120,
+      "Actual Sales - Oct 21": 80,
+      "OCT Abs Per Error": 50,
+      "OCT Category": "B",
+      "2M-MAPE %": 265,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL408NI",
+      "Forecast - Sep-21": 2601,
+      "Actual Sales - Sep-21": 2520,
+      "Variance": 223,
+      "Type": "Short",
+      "SEP APE%": 3.2142857142857144,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 1743,
+      "Actual Sales - Oct 21": 1520,
+      "OCT Abs Per Error": 14.671052631578947,
+      "OCT Category": "A",
+      "2M-MAPE %": 8.94266917293233,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL410(20)",
+      "Forecast - Sep-21": 886,
+      "Actual Sales - Sep-21": 120,
+      "Variance": 180,
+      "Type": "Excess",
+      "SEP APE%": 638.3333333333334,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 180,
+      "Actual Sales - Oct 21": 360,
+      "OCT Abs Per Error": 50,
+      "OCT Category": "B",
+      "2M-MAPE %": 344.1666666666667,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL500NS",
+      "Forecast - Sep-21": 350,
+      "Actual Sales - Sep-21": 240,
+      "Variance": 171,
+      "Type": "Excess",
+      "SEP APE%": 45.833333333333336,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 329,
+      "Actual Sales - Oct 21": 500,
+      "OCT Abs Per Error": 34.2,
+      "OCT Category": "A",
+      "2M-MAPE %": 40.016666666666666,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ATLORSN",
+      "Forecast - Sep-21": 49,
+      "Actual Sales - Sep-21": 161,
+      "Variance": 199,
+      "Type": "Excess",
+      "SEP APE%": 69.56521739130434,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 199,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 84.78260869565217,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "Forecast - Sep-21": 50,
+      "Actual Sales - Sep-21": 45,
+      "Variance": 34,
+      "Type": "Excess",
+      "SEP APE%": 11.11111111111111,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 34,
+      "Actual Sales - Oct 21": 68,
+      "OCT Abs Per Error": 50,
+      "OCT Category": "B",
+      "2M-MAPE %": 30.555555555555557,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "Forecast - Sep-21": 43,
+      "Actual Sales - Sep-21": 62,
+      "Variance": 6,
+      "Type": "Short",
+      "SEP APE%": 30.64516129032258,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 42,
+      "Actual Sales - Oct 21": 36,
+      "OCT Abs Per Error": 16.666666666666668,
+      "OCT Category": "A",
+      "2M-MAPE %": 23.655913978494624,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "Forecast - Sep-21": 269,
+      "Actual Sales - Sep-21": 72,
+      "Variance": 94,
+      "Type": "Excess",
+      "SEP APE%": 273.6111111111111,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 92,
+      "Actual Sales - Oct 21": 186,
+      "OCT Abs Per Error": 50.53763440860215,
+      "OCT Category": "B",
+      "2M-MAPE %": 162.07437275985663,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ELINA-08CY",
+      "Forecast - Sep-21": 55,
+      "Actual Sales - Sep-21": 61,
+      "Variance": 56,
+      "Type": "Excess",
+      "SEP APE%": 9.836065573770492,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 28,
+      "Actual Sales - Oct 21": 84,
+      "OCT Abs Per Error": 66.66666666666667,
+      "OCT Category": "B",
+      "2M-MAPE %": 38.251366120218584,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ELINA-OR",
+      "Forecast - Sep-21": 20,
+      "Actual Sales - Sep-21": 10,
+      "Variance": 13,
+      "Type": "Short",
+      "SEP APE%": 100,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 25,
+      "Actual Sales - Oct 21": 12,
+      "OCT Abs Per Error": 108.33333333333333,
+      "OCT Category": "C",
+      "2M-MAPE %": 104.16666666666666,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "HALE-WR",
+      "Forecast - Sep-21": 7,
+      "Actual Sales - Sep-21": 152,
+      "Variance": 30,
+      "Type": "Excess",
+      "SEP APE%": 95.39473684210526,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 42,
+      "Actual Sales - Oct 21": 72,
+      "OCT Abs Per Error": 41.666666666666664,
+      "OCT Category": "A",
+      "2M-MAPE %": 68.53070175438596,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "Forecast - Sep-21": 282,
+      "Actual Sales - Sep-21": 217,
+      "Variance": 447,
+      "Type": "Excess",
+      "SEP APE%": 29.953917050691246,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 233,
+      "Actual Sales - Oct 21": 680,
+      "OCT Abs Per Error": 65.73529411764706,
+      "OCT Category": "B",
+      "2M-MAPE %": 47.84460558416915,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "KAIRA-WR",
+      "Forecast - Sep-21": 101,
+      "Actual Sales - Sep-21": 324,
+      "Variance": 196,
+      "Type": "Excess",
+      "SEP APE%": 68.82716049382717,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 80,
+      "Actual Sales - Oct 21": 276,
+      "OCT Abs Per Error": 71.01449275362319,
+      "OCT Category": "B",
+      "2M-MAPE %": 69.92082662372518,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ML110SS",
+      "Forecast - Sep-21": 352,
+      "Actual Sales - Sep-21": 120,
+      "Variance": 205,
+      "Type": "Short",
+      "SEP APE%": 193.33333333333334,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 253,
+      "Actual Sales - Oct 21": 48,
+      "OCT Abs Per Error": 427.0833333333333,
+      "OCT Category": "C",
+      "2M-MAPE %": 310.2083333333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ML166SS",
+      "Forecast - Sep-21": 180,
+      "Actual Sales - Sep-21": 180,
+      "Variance": 177,
+      "Type": "Excess",
+      "SEP APE%": 0,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 163,
+      "Actual Sales - Oct 21": 340,
+      "OCT Abs Per Error": 52.05882352941177,
+      "OCT Category": "B",
+      "2M-MAPE %": 26.029411764705884,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "MP360SS",
+      "Forecast - Sep-21": 269,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 85,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 155,
+      "Actual Sales - Oct 21": 240,
+      "OCT Abs Per Error": 35.416666666666664,
+      "OCT Category": "A",
+      "2M-MAPE %": 267.7083333333333,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "MP460NI",
+      "Forecast - Sep-21": 900,
+      "Actual Sales - Sep-21": 240,
+      "Variance": 524,
+      "Type": "Excess",
+      "SEP APE%": 275,
+      "SEP Category": "C",
+      "Forecast - Oct 21": 196,
+      "Actual Sales - Oct 21": 720,
+      "OCT Abs Per Error": 72.77777777777777,
+      "OCT Category": "B",
+      "2M-MAPE %": 173.88888888888889,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ONIX-10\"",
+      "Forecast - Sep-21": 4,
+      "Actual Sales - Sep-21": 0,
+      "Variance": 8,
+      "Type": "Excess",
+      "SEP APE%": 500,
+      "SEP Category": "D",
+      "Forecast - Oct 21": 24,
+      "Actual Sales - Oct 21": 32,
+      "OCT Abs Per Error": 25,
+      "OCT Category": "A",
+      "2M-MAPE %": 262.5,
+      "Category": "C"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ONIX-WR",
+      "Forecast - Sep-21": 22,
+      "Actual Sales - Sep-21": 32,
+      "Variance": 3,
+      "Type": "Excess",
+      "SEP APE%": 31.25,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 61,
+      "Actual Sales - Oct 21": 64,
+      "OCT Abs Per Error": 4.6875,
+      "OCT Category": "A",
+      "2M-MAPE %": 17.96875,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "PHA303NS",
+      "Forecast - Sep-21": 19,
+      "Actual Sales - Sep-21": 168,
+      "Variance": 68,
+      "Type": "Excess",
+      "SEP APE%": 88.69047619047619,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 0,
+      "Actual Sales - Oct 21": 68,
+      "OCT Abs Per Error": 100,
+      "OCT Category": "D",
+      "2M-MAPE %": 94.3452380952381,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "Forecast - Sep-21": 21,
+      "Actual Sales - Sep-21": 100,
+      "Variance": 185,
+      "Type": "Excess",
+      "SEP APE%": 79,
+      "SEP Category": "B",
+      "Forecast - Oct 21": 10,
+      "Actual Sales - Oct 21": 195,
+      "OCT Abs Per Error": 94.87179487179488,
+      "OCT Category": "B",
+      "2M-MAPE %": 86.93589743589743,
+      "Category": "B"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ZOVI-08CY",
+      "Forecast - Sep-21": 330,
+      "Actual Sales - Sep-21": 300,
+      "Variance": 163,
+      "Type": "Excess",
+      "SEP APE%": 10,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 321,
+      "Actual Sales - Oct 21": 484,
+      "OCT Abs Per Error": 33.67768595041322,
+      "OCT Category": "A",
+      "2M-MAPE %": 21.83884297520661,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ZOVI-WR",
+      "Forecast - Sep-21": 171,
+      "Actual Sales - Sep-21": 148,
+      "Variance": 144,
+      "Type": "Excess",
+      "SEP APE%": 15.54054054054054,
+      "SEP Category": "A",
+      "Forecast - Oct 21": 100,
+      "Actual Sales - Oct 21": 244,
+      "OCT Abs Per Error": 59.01639344262295,
+      "OCT Category": "B",
+      "2M-MAPE %": 37.278466991581745,
+      "Category": "A"
+    },
+    {
+      "TERRITORY": "Grand Total",
+      "PRODUCT FAMILY": null,
+      "Forecast - Sep-21": 46061,
+      "Actual Sales - Sep-21": 37277,
+      "Variance": null,
+      "Type": null,
+      "SEP APE%": null,
+      "SEP Category": null,
+      "Forecast - Oct 21": 30360,
+      "Actual Sales - Oct 21": 58445,
+      "OCT Abs Per Error": null,
+      "OCT Category": null,
+      "2M-MAPE %": null,
+      "Category": null
+    },
+    {
+      "TERRITORY": null,
+      "PRODUCT FAMILY": null,
+      "Forecast - Sep-21": null,
+      "Actual Sales - Sep-21": null,
+      "Variance": null,
+      "Type": "AVG",
+      "SEP APE%": null,
+      "SEP Category": null,
+      "Forecast - Oct 21": null,
+      "Actual Sales - Oct 21": null,
+      "OCT Abs Per Error": null,
+      "OCT Category": null,
+      "2M-MAPE %": null,
+      "Category": null
+    }
+  ],
+  "Dorset_Results": [
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 2736,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 1179,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 2090,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 2994,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 1989,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 4152,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL411(25)",
+      "DEMAND FORECAST": 381,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL411(25)",
+      "DEMAND FORECAST": 393,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL411(25)",
+      "DEMAND FORECAST": 410,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 869,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 375,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 79,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "CETO-08CY",
+      "DEMAND FORECAST": 11,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "CETO-08CY",
+      "DEMAND FORECAST": 31,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "CETO-08CY",
+      "DEMAND FORECAST": 18,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 73,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 62,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 62,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 92,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 175,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 99,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 43,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 63,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 26,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "HG1153SS",
+      "DEMAND FORECAST": 116,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "HG1153SS",
+      "DEMAND FORECAST": 118,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "HG1153SS",
+      "DEMAND FORECAST": 140,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "KAIRA-10\"",
+      "DEMAND FORECAST": 836,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "KAIRA-10\"",
+      "DEMAND FORECAST": 55,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "KAIRA-10\"",
+      "DEMAND FORECAST": 437,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "KAIRA-OR",
+      "DEMAND FORECAST": 241,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "KAIRA-OR",
+      "DEMAND FORECAST": 324,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "KAIRA-OR",
+      "DEMAND FORECAST": 231,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML100HG",
+      "DEMAND FORECAST": 167,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML100HG",
+      "DEMAND FORECAST": 157,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML100HG",
+      "DEMAND FORECAST": 151,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110PT",
+      "DEMAND FORECAST": 233,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110PT",
+      "DEMAND FORECAST": 223,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110PT",
+      "DEMAND FORECAST": 214,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 364,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 701,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 373,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110TM",
+      "DEMAND FORECAST": 35,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110TM",
+      "DEMAND FORECAST": 121,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML110TM",
+      "DEMAND FORECAST": 86,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 280,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 567,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 106,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP330NI",
+      "DEMAND FORECAST": 340,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP330NI",
+      "DEMAND FORECAST": 330,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP330NI",
+      "DEMAND FORECAST": 358,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 648,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 1060,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 2420,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP370SS",
+      "DEMAND FORECAST": 398,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP370SS",
+      "DEMAND FORECAST": 245,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP370SS",
+      "DEMAND FORECAST": 740,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 2912,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 660,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 1276,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ONIX-OR",
+      "DEMAND FORECAST": 59,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ONIX-OR",
+      "DEMAND FORECAST": 73,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ONIX-OR",
+      "DEMAND FORECAST": 63,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "SD12PSS22",
+      "DEMAND FORECAST": 70,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "SD12PSS22",
+      "DEMAND FORECAST": 72,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "SD12PSS22",
+      "DEMAND FORECAST": 69,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 33,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 59,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 74,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 60,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 62,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 58,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "VITORSN",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "VITORSN",
+      "DEMAND FORECAST": 36,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "VITORSN",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ZOVI-OR",
+      "DEMAND FORECAST": 116,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ZOVI-OR",
+      "DEMAND FORECAST": 112,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "DELHI",
+      "PRODUCT FAMILY": "ZOVI-OR",
+      "DEMAND FORECAST": 114,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 1980,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 2229,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 2385,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL408NI",
+      "DEMAND FORECAST": 784,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL408NI",
+      "DEMAND FORECAST": 810,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL408NI",
+      "DEMAND FORECAST": 754,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 1247,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 2700,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 1017,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ATLORSN",
+      "DEMAND FORECAST": 15,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ATLORSN",
+      "DEMAND FORECAST": 12,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ATLORSN",
+      "DEMAND FORECAST": 13,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 16,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 16,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 0,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "CETO-10\"",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "CETO-10\"",
+      "DEMAND FORECAST": 101,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "CETO-10\"",
+      "DEMAND FORECAST": 106,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "CL201SS",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "CL201SS",
+      "DEMAND FORECAST": 25,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "CL201SS",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "COSMO-08CY",
+      "DEMAND FORECAST": 88,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "COSMO-08CY",
+      "DEMAND FORECAST": 55,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "COSMO-08CY",
+      "DEMAND FORECAST": 138,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 249,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 70,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 92,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "DC80PDC",
+      "DEMAND FORECAST": 48,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "DC80PDC",
+      "DEMAND FORECAST": 81,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "DC80PDC",
+      "DEMAND FORECAST": 28,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 85,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 87,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 84,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 568,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 1701,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 710,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "KAIRA-10\"",
+      "DEMAND FORECAST": 494,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "KAIRA-10\"",
+      "DEMAND FORECAST": 684,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "KAIRA-10\"",
+      "DEMAND FORECAST": 418,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML100HG",
+      "DEMAND FORECAST": 134,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML100HG",
+      "DEMAND FORECAST": 93,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML100HG",
+      "DEMAND FORECAST": 67,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 1352,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 1401,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 1284,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML110TM",
+      "DEMAND FORECAST": 103,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML110TM",
+      "DEMAND FORECAST": 30,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML110TM",
+      "DEMAND FORECAST": 42,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 85,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 142,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 121,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 1452,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 1639,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 0,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 2280,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 2280,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 2340,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ONIX-10\"",
+      "DEMAND FORECAST": 62,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ONIX-10\"",
+      "DEMAND FORECAST": 86,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "ONIX-10\"",
+      "DEMAND FORECAST": 274,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "PRTOSS",
+      "DEMAND FORECAST": 407,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "PRTOSS",
+      "DEMAND FORECAST": 312,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "PRTOSS",
+      "DEMAND FORECAST": 288,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SD10PSS22",
+      "DEMAND FORECAST": 12,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SD10PSS22",
+      "DEMAND FORECAST": 13,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SD10PSS22",
+      "DEMAND FORECAST": 14,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 69,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 120,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 100,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SKEW-08CY",
+      "DEMAND FORECAST": 24,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SKEW-08CY",
+      "DEMAND FORECAST": 30,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SKEW-08CY",
+      "DEMAND FORECAST": 26,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SLORSS22",
+      "DEMAND FORECAST": 46,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SLORSS22",
+      "DEMAND FORECAST": 30,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "SLORSS22",
+      "DEMAND FORECAST": 35,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 21,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 21,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 21,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "VITORSN",
+      "DEMAND FORECAST": 37,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "VITORSN",
+      "DEMAND FORECAST": 35,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "NCR & HARYANA",
+      "PRODUCT FAMILY": "VITORSN",
+      "DEMAND FORECAST": 32,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL210(20)",
+      "DEMAND FORECAST": 461,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL210(20)",
+      "DEMAND FORECAST": 473,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL210(20)",
+      "DEMAND FORECAST": 507,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 556,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 165,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 211,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 163,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 45,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 63,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 174,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 177,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 176,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 55,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 81,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 40,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL100SS",
+      "DEMAND FORECAST": 211,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL100SS",
+      "DEMAND FORECAST": 238,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL100SS",
+      "DEMAND FORECAST": 38,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL200SS",
+      "DEMAND FORECAST": 40,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL200SS",
+      "DEMAND FORECAST": 43,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL200SS",
+      "DEMAND FORECAST": 43,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL206SS",
+      "DEMAND FORECAST": 116,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL206SS",
+      "DEMAND FORECAST": 135,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "CL206SS",
+      "DEMAND FORECAST": 128,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 7,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 95,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 39,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DC80 Ext.",
+      "DEMAND FORECAST": 28,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DC80 Ext.",
+      "DEMAND FORECAST": 41,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DC80 Ext.",
+      "DEMAND FORECAST": 76,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 145,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 157,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 115,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ETTOSM(SS)",
+      "DEMAND FORECAST": 446,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ETTOSM(SS)",
+      "DEMAND FORECAST": 370,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ETTOSM(SS)",
+      "DEMAND FORECAST": 73,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 42,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "HALE-08CY",
+      "DEMAND FORECAST": 19,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "HG1253SS",
+      "DEMAND FORECAST": 2962,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "HG1253SS",
+      "DEMAND FORECAST": 1908,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "HG1253SS",
+      "DEMAND FORECAST": 4546,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 340,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 335,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 338,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "KAIRA-OR",
+      "DEMAND FORECAST": 58,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "KAIRA-OR",
+      "DEMAND FORECAST": 336,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "KAIRA-OR",
+      "DEMAND FORECAST": 43,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML103SS",
+      "DEMAND FORECAST": 292,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML103SS",
+      "DEMAND FORECAST": 60,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML103SS",
+      "DEMAND FORECAST": 80,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 1112,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 941,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 953,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 402,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 30,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 988,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "MP330NI",
+      "DEMAND FORECAST": 116,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "MP330NI",
+      "DEMAND FORECAST": 251,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "MP330NI",
+      "DEMAND FORECAST": 398,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PHA103NS",
+      "DEMAND FORECAST": 24,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PHA103NS",
+      "DEMAND FORECAST": 43,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PHA103NS",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 60,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 22,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 20,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PRTOSM(SS)",
+      "DEMAND FORECAST": 245,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PRTOSM(SS)",
+      "DEMAND FORECAST": 68,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "PRTOSM(SS)",
+      "DEMAND FORECAST": 183,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "SD10PSS22",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "SD10PSS22",
+      "DEMAND FORECAST": 30,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "SD10PSS22",
+      "DEMAND FORECAST": 25,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 11,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 0,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 41,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 26,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 27,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "AP & TELANGANA",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 24,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 263,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 285,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 307,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL401SS",
+      "DEMAND FORECAST": 232,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL401SS",
+      "DEMAND FORECAST": 270,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL401SS",
+      "DEMAND FORECAST": 284,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL408NI",
+      "DEMAND FORECAST": 2601,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL408NI",
+      "DEMAND FORECAST": 4802,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL408NI",
+      "DEMAND FORECAST": 6572,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 886,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 404,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 765,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 350,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 150,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 420,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ATLORSN",
+      "DEMAND FORECAST": 49,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ATLORSN",
+      "DEMAND FORECAST": 42,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ATLORSN",
+      "DEMAND FORECAST": 6,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 50,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 24,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 88,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 43,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 23,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "DASH-08CY",
+      "DEMAND FORECAST": 49,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 269,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 185,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 314,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ELINA-08CY",
+      "DEMAND FORECAST": 55,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ELINA-08CY",
+      "DEMAND FORECAST": 53,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ELINA-08CY",
+      "DEMAND FORECAST": 53,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ELINA-OR",
+      "DEMAND FORECAST": 20,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ELINA-OR",
+      "DEMAND FORECAST": 15,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ELINA-OR",
+      "DEMAND FORECAST": 35,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "HALE-WR",
+      "DEMAND FORECAST": 7,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "HALE-WR",
+      "DEMAND FORECAST": 23,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "HALE-WR",
+      "DEMAND FORECAST": 58,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 282,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 187,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "KAIRA-08CY",
+      "DEMAND FORECAST": 427,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "KAIRA-WR",
+      "DEMAND FORECAST": 101,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "KAIRA-WR",
+      "DEMAND FORECAST": 209,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "KAIRA-WR",
+      "DEMAND FORECAST": 229,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 352,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 373,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 354,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ML166SS",
+      "DEMAND FORECAST": 180,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ML166SS",
+      "DEMAND FORECAST": 163,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ML166SS",
+      "DEMAND FORECAST": 162,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 269,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 270,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "MP360SS",
+      "DEMAND FORECAST": 312,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "MP460NI",
+      "DEMAND FORECAST": 900,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "MP460NI",
+      "DEMAND FORECAST": 427,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "MP460NI",
+      "DEMAND FORECAST": 261,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ONIX-10\"",
+      "DEMAND FORECAST": 4,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ONIX-10\"",
+      "DEMAND FORECAST": 11,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ONIX-10\"",
+      "DEMAND FORECAST": 27,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ONIX-WR",
+      "DEMAND FORECAST": 22,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ONIX-WR",
+      "DEMAND FORECAST": 22,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ONIX-WR",
+      "DEMAND FORECAST": 36,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 19,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 30,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 18,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 21,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 20,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "TRAORGMHG",
+      "DEMAND FORECAST": 22,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ZOVI-08CY",
+      "DEMAND FORECAST": 330,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ZOVI-08CY",
+      "DEMAND FORECAST": 307,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ZOVI-08CY",
+      "DEMAND FORECAST": 318,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ZOVI-WR",
+      "DEMAND FORECAST": 171,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ZOVI-WR",
+      "DEMAND FORECAST": 180,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "PUNJAB, CHDH, HP, J&K",
+      "PRODUCT FAMILY": "ZOVI-WR",
+      "DEMAND FORECAST": 211,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL210(20)",
+      "DEMAND FORECAST": 16,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL210(20)",
+      "DEMAND FORECAST": 212,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL210(20)",
+      "DEMAND FORECAST": 147,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 648,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 278,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL400SS",
+      "DEMAND FORECAST": 618,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL401SS",
+      "DEMAND FORECAST": 90,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL401SS",
+      "DEMAND FORECAST": 40,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL401SS",
+      "DEMAND FORECAST": 21,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 100,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 93,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL410(20)",
+      "DEMAND FORECAST": 87,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL411(25)",
+      "DEMAND FORECAST": 174,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL411(25)",
+      "DEMAND FORECAST": 222,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL411(25)",
+      "DEMAND FORECAST": 203,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 95,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 144,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "AL500NS",
+      "DEMAND FORECAST": 176,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 45,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 82,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "BRITO-08KY",
+      "DEMAND FORECAST": 55,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL200SS",
+      "DEMAND FORECAST": 90,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL200SS",
+      "DEMAND FORECAST": 360,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL200SS",
+      "DEMAND FORECAST": 1,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL201SS",
+      "DEMAND FORECAST": 94,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL201SS",
+      "DEMAND FORECAST": 197,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL201SS",
+      "DEMAND FORECAST": 161,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL207SS",
+      "DEMAND FORECAST": 17,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL207SS",
+      "DEMAND FORECAST": 19,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "CL207SS",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "DC60SM",
+      "DEMAND FORECAST": 392,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "DC60SM",
+      "DEMAND FORECAST": 165,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "DC60SM",
+      "DEMAND FORECAST": 176,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 58,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 31,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "DC80 Ext. (WP)",
+      "DEMAND FORECAST": 3,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ETTOSM(SS)",
+      "DEMAND FORECAST": 156,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ETTOSM(SS)",
+      "DEMAND FORECAST": 319,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ETTOSM(SS)",
+      "DEMAND FORECAST": 136,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "HG2151HSS",
+      "DEMAND FORECAST": 203,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "HG2151HSS",
+      "DEMAND FORECAST": 230,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "HG2151HSS",
+      "DEMAND FORECAST": 210,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML102SS",
+      "DEMAND FORECAST": 30,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML102SS",
+      "DEMAND FORECAST": 30,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML102SS",
+      "DEMAND FORECAST": 0,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 568,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 226,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML110SS",
+      "DEMAND FORECAST": 580,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 206,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 206,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "ML112SS",
+      "DEMAND FORECAST": 206,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 1343,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 204,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "MP390NI",
+      "DEMAND FORECAST": 855,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "NKORSS",
+      "DEMAND FORECAST": 33,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "NKORSS",
+      "DEMAND FORECAST": 31,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "NKORSS",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "OBLO-08KY",
+      "DEMAND FORECAST": 22,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "OBLO-08KY",
+      "DEMAND FORECAST": 14,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "OBLO-08KY",
+      "DEMAND FORECAST": 34,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "PHA303MPT",
+      "DEMAND FORECAST": 52,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "PHA303MPT",
+      "DEMAND FORECAST": 51,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "PHA303MPT",
+      "DEMAND FORECAST": 51,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 36,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 15,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "PHA303NS",
+      "DEMAND FORECAST": 57,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 18,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 25,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SDORSS22",
+      "DEMAND FORECAST": 93,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SKEW-08KY",
+      "DEMAND FORECAST": 82,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SKEW-08KY",
+      "DEMAND FORECAST": 73,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SKEW-08KY",
+      "DEMAND FORECAST": 22,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SLORSS22",
+      "DEMAND FORECAST": 20,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SLORSS22",
+      "DEMAND FORECAST": 24,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "SLORSS22",
+      "DEMAND FORECAST": 29,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Sep-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "TS-610SS",
+      "DEMAND FORECAST": 37,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Oct-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "TS-610SS",
+      "DEMAND FORECAST": 240,
+      "SALES QUANTITY": null,
+      "Column7": null
+    },
+    {
+      "MONTH": "Nov-21",
+      "TERRITORY": "KARNATAKA",
+      "PRODUCT FAMILY": "TS-610SS",
+      "DEMAND FORECAST": 1,
+      "SALES QUANTITY": null,
+      "Column7": null
+    }
+  ]
+}
